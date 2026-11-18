@@ -1,0 +1,14 @@
+# Godot
+.godot/
+*.translation
+export_presets.cfg
+# Ассеты, которые не публикуются
+game/w3/
+game/heroes/*/
+game/assets/
+art/
+reference/
+backup*/
+# Прочее
+__pycache__/
+*.blend1
